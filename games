@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Site</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 50px;
+      font-size: 30px;
+      background: black;
+    }
+    section {
+      padding: 40px;
+    }
+    .box {
+      background: #222;
+      margin: 20px auto;
+      padding: 20px;
+      width: 80%;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  Welcome to My Website
+</header>
+
+<section>
+  <div class="box">
+    <h2>About Me</h2>
+    <p>Edit this text to say whatever you want.</p>
+  </div>
+
+  <div class="box">
+    <h2>Cool Stuff</h2>
+    <p>You can add anything here.</p>
+  </div>
+</section>
+
+</body>
+</html>
